@@ -1,0 +1,12 @@
+schema: metabrain.decision/v1
+run_id: run-gw-01
+repo: pulse-gateway
+team: feature-flow
+artifact: arch/design
+attempt: 1
+artifact_digest: sha256:5bd57c0d2b3023d6ecc01c2a1ae8003fb97918877f12fb53a7c6b9be3070430b
+gate_request_digest: sha256:b45a25553bee3319fd03331b80cea0368f3782f3a715ec29f41b778543ab8e87
+decision: approved
+by: operator
+actor_kind: human
+comment: Approved gateway ingestion design

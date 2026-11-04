@@ -1,0 +1,4 @@
+schema: metabrain.brain/v1
+id: pulse-gateway
+metabrain: pulse-platform
+status: active
